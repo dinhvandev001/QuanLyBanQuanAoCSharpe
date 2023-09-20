@@ -1,0 +1,106 @@
+G:\Tai Lieu C#\File Project\QuanLyBanQuanAo\GUI\obj\Debug\net5.0-windows\GUI.csproj.AssemblyReference.cache
+G:\Tai Lieu C#\File Project\QuanLyBanQuanAo\GUI\obj\Debug\net5.0-windows\GUI.BanHang.resources
+G:\Tai Lieu C#\File Project\QuanLyBanQuanAo\GUI\obj\Debug\net5.0-windows\GUI.DangNhap.resources
+G:\Tai Lieu C#\File Project\QuanLyBanQuanAo\GUI\obj\Debug\net5.0-windows\GUI.DanhSachDoanhSo.resources
+G:\Tai Lieu C#\File Project\QuanLyBanQuanAo\GUI\obj\Debug\net5.0-windows\GUI.DanhSachHangTrongKho.resources
+G:\Tai Lieu C#\File Project\QuanLyBanQuanAo\GUI\obj\Debug\net5.0-windows\GUI.DanhSachKhachHang.resources
+G:\Tai Lieu C#\File Project\QuanLyBanQuanAo\GUI\obj\Debug\net5.0-windows\GUI.DanhSachLuongNhanVien.resources
+G:\Tai Lieu C#\File Project\QuanLyBanQuanAo\GUI\obj\Debug\net5.0-windows\GUI.DanhSachThongTinNhanVien.resources
+G:\Tai Lieu C#\File Project\QuanLyBanQuanAo\GUI\obj\Debug\net5.0-windows\GUI.DoiMatKhau.resources
+G:\Tai Lieu C#\File Project\QuanLyBanQuanAo\GUI\obj\Debug\net5.0-windows\GUI.HoSoNhanVien.resources
+G:\Tai Lieu C#\File Project\QuanLyBanQuanAo\GUI\obj\Debug\net5.0-windows\GUI.LichSuLuongNhanVien.resources
+G:\Tai Lieu C#\File Project\QuanLyBanQuanAo\GUI\obj\Debug\net5.0-windows\GUI.LichSuNhapXuatHang.resources
+G:\Tai Lieu C#\File Project\QuanLyBanQuanAo\GUI\obj\Debug\net5.0-windows\GUI.LuongNhanVien.resources
+G:\Tai Lieu C#\File Project\QuanLyBanQuanAo\GUI\obj\Debug\net5.0-windows\GUI.QuanLyChucVu.resources
+G:\Tai Lieu C#\File Project\QuanLyBanQuanAo\GUI\obj\Debug\net5.0-windows\GUI.QuanLyDoanhSo.resources
+G:\Tai Lieu C#\File Project\QuanLyBanQuanAo\GUI\obj\Debug\net5.0-windows\GUI.QuanLyGioiTinh.resources
+G:\Tai Lieu C#\File Project\QuanLyBanQuanAo\GUI\obj\Debug\net5.0-windows\GUI.QuanLyHangTrongKho.resources
+G:\Tai Lieu C#\File Project\QuanLyBanQuanAo\GUI\obj\Debug\net5.0-windows\GUI.QuanLyKhachHang.resources
+G:\Tai Lieu C#\File Project\QuanLyBanQuanAo\GUI\obj\Debug\net5.0-windows\GUI.QuanLyKichCo.resources
+G:\Tai Lieu C#\File Project\QuanLyBanQuanAo\GUI\obj\Debug\net5.0-windows\GUI.QuanLyLoaiHangHoa.resources
+G:\Tai Lieu C#\File Project\QuanLyBanQuanAo\GUI\obj\Debug\net5.0-windows\GUI.QuanLyLuongNhanVien.resources
+G:\Tai Lieu C#\File Project\QuanLyBanQuanAo\GUI\obj\Debug\net5.0-windows\GUI.QuanLyNhanVien.resources
+G:\Tai Lieu C#\File Project\QuanLyBanQuanAo\GUI\obj\Debug\net5.0-windows\GUI.TrangChuAdmin.resources
+G:\Tai Lieu C#\File Project\QuanLyBanQuanAo\GUI\obj\Debug\net5.0-windows\GUI.TrangChuNhanVien.resources
+G:\Tai Lieu C#\File Project\QuanLyBanQuanAo\GUI\obj\Debug\net5.0-windows\GUI.csproj.GenerateResource.cache
+G:\Tai Lieu C#\File Project\QuanLyBanQuanAo\GUI\obj\Debug\net5.0-windows\GUI.GeneratedMSBuildEditorConfig.editorconfig
+G:\Tai Lieu C#\File Project\QuanLyBanQuanAo\GUI\obj\Debug\net5.0-windows\GUI.AssemblyInfoInputs.cache
+G:\Tai Lieu C#\File Project\QuanLyBanQuanAo\GUI\obj\Debug\net5.0-windows\GUI.AssemblyInfo.cs
+G:\Tai Lieu C#\File Project\QuanLyBanQuanAo\GUI\obj\Debug\net5.0-windows\GUI.csproj.CoreCompileInputs.cache
+G:\Tai Lieu C#\File Project\QuanLyBanQuanAo\GUI\bin\Debug\net5.0-windows\GUI.exe
+G:\Tai Lieu C#\File Project\QuanLyBanQuanAo\GUI\bin\Debug\net5.0-windows\GUI.deps.json
+G:\Tai Lieu C#\File Project\QuanLyBanQuanAo\GUI\bin\Debug\net5.0-windows\GUI.runtimeconfig.json
+G:\Tai Lieu C#\File Project\QuanLyBanQuanAo\GUI\bin\Debug\net5.0-windows\GUI.runtimeconfig.dev.json
+G:\Tai Lieu C#\File Project\QuanLyBanQuanAo\GUI\bin\Debug\net5.0-windows\GUI.dll
+G:\Tai Lieu C#\File Project\QuanLyBanQuanAo\GUI\bin\Debug\net5.0-windows\ref\GUI.dll
+G:\Tai Lieu C#\File Project\QuanLyBanQuanAo\GUI\bin\Debug\net5.0-windows\GUI.pdb
+G:\Tai Lieu C#\File Project\QuanLyBanQuanAo\GUI\bin\Debug\net5.0-windows\System.Data.SqlClient.dll
+G:\Tai Lieu C#\File Project\QuanLyBanQuanAo\GUI\bin\Debug\net5.0-windows\runtimes\win-arm64\native\sni.dll
+G:\Tai Lieu C#\File Project\QuanLyBanQuanAo\GUI\bin\Debug\net5.0-windows\runtimes\win-x64\native\sni.dll
+G:\Tai Lieu C#\File Project\QuanLyBanQuanAo\GUI\bin\Debug\net5.0-windows\runtimes\win-x86\native\sni.dll
+G:\Tai Lieu C#\File Project\QuanLyBanQuanAo\GUI\bin\Debug\net5.0-windows\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+G:\Tai Lieu C#\File Project\QuanLyBanQuanAo\GUI\bin\Debug\net5.0-windows\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+G:\Tai Lieu C#\File Project\QuanLyBanQuanAo\GUI\bin\Debug\net5.0-windows\BUS.dll
+G:\Tai Lieu C#\File Project\QuanLyBanQuanAo\GUI\bin\Debug\net5.0-windows\DAL.dll
+G:\Tai Lieu C#\File Project\QuanLyBanQuanAo\GUI\bin\Debug\net5.0-windows\DTO.dll
+G:\Tai Lieu C#\File Project\QuanLyBanQuanAo\GUI\bin\Debug\net5.0-windows\BUS.pdb
+G:\Tai Lieu C#\File Project\QuanLyBanQuanAo\GUI\bin\Debug\net5.0-windows\DAL.pdb
+G:\Tai Lieu C#\File Project\QuanLyBanQuanAo\GUI\bin\Debug\net5.0-windows\DTO.pdb
+G:\Tai Lieu C#\File Project\QuanLyBanQuanAo\GUI\obj\Debug\net5.0-windows\GUI.csproj.CopyComplete
+G:\Tai Lieu C#\File Project\QuanLyBanQuanAo\GUI\obj\Debug\net5.0-windows\GUI.dll
+G:\Tai Lieu C#\File Project\QuanLyBanQuanAo\GUI\obj\Debug\net5.0-windows\ref\GUI.dll
+G:\Tai Lieu C#\File Project\QuanLyBanQuanAo\GUI\obj\Debug\net5.0-windows\GUI.pdb
+G:\Tai Lieu C#\File Project\QuanLyBanQuanAo\GUI\obj\Debug\net5.0-windows\GUI.genruntimeconfig.cache
+C:\Users\nitro\OneDrive\Máy tính\QuanLyBanQuanAo\GUI\bin\Debug\net5.0-windows\GUI.exe
+C:\Users\nitro\OneDrive\Máy tính\QuanLyBanQuanAo\GUI\bin\Debug\net5.0-windows\GUI.deps.json
+C:\Users\nitro\OneDrive\Máy tính\QuanLyBanQuanAo\GUI\bin\Debug\net5.0-windows\GUI.runtimeconfig.json
+C:\Users\nitro\OneDrive\Máy tính\QuanLyBanQuanAo\GUI\bin\Debug\net5.0-windows\GUI.runtimeconfig.dev.json
+C:\Users\nitro\OneDrive\Máy tính\QuanLyBanQuanAo\GUI\bin\Debug\net5.0-windows\GUI.dll
+C:\Users\nitro\OneDrive\Máy tính\QuanLyBanQuanAo\GUI\bin\Debug\net5.0-windows\ref\GUI.dll
+C:\Users\nitro\OneDrive\Máy tính\QuanLyBanQuanAo\GUI\bin\Debug\net5.0-windows\GUI.pdb
+C:\Users\nitro\OneDrive\Máy tính\QuanLyBanQuanAo\GUI\bin\Debug\net5.0-windows\System.Data.SqlClient.dll
+C:\Users\nitro\OneDrive\Máy tính\QuanLyBanQuanAo\GUI\bin\Debug\net5.0-windows\runtimes\win-arm64\native\sni.dll
+C:\Users\nitro\OneDrive\Máy tính\QuanLyBanQuanAo\GUI\bin\Debug\net5.0-windows\runtimes\win-x64\native\sni.dll
+C:\Users\nitro\OneDrive\Máy tính\QuanLyBanQuanAo\GUI\bin\Debug\net5.0-windows\runtimes\win-x86\native\sni.dll
+C:\Users\nitro\OneDrive\Máy tính\QuanLyBanQuanAo\GUI\bin\Debug\net5.0-windows\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\nitro\OneDrive\Máy tính\QuanLyBanQuanAo\GUI\bin\Debug\net5.0-windows\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\nitro\OneDrive\Máy tính\QuanLyBanQuanAo\GUI\bin\Debug\net5.0-windows\BUS.dll
+C:\Users\nitro\OneDrive\Máy tính\QuanLyBanQuanAo\GUI\bin\Debug\net5.0-windows\DAL.dll
+C:\Users\nitro\OneDrive\Máy tính\QuanLyBanQuanAo\GUI\bin\Debug\net5.0-windows\DTO.dll
+C:\Users\nitro\OneDrive\Máy tính\QuanLyBanQuanAo\GUI\bin\Debug\net5.0-windows\BUS.pdb
+C:\Users\nitro\OneDrive\Máy tính\QuanLyBanQuanAo\GUI\bin\Debug\net5.0-windows\DAL.pdb
+C:\Users\nitro\OneDrive\Máy tính\QuanLyBanQuanAo\GUI\bin\Debug\net5.0-windows\DTO.pdb
+C:\Users\nitro\OneDrive\Máy tính\QuanLyBanQuanAo\GUI\obj\Debug\net5.0-windows\GUI.csproj.AssemblyReference.cache
+C:\Users\nitro\OneDrive\Máy tính\QuanLyBanQuanAo\GUI\obj\Debug\net5.0-windows\GUI.BanHang.resources
+C:\Users\nitro\OneDrive\Máy tính\QuanLyBanQuanAo\GUI\obj\Debug\net5.0-windows\GUI.DangNhap.resources
+C:\Users\nitro\OneDrive\Máy tính\QuanLyBanQuanAo\GUI\obj\Debug\net5.0-windows\GUI.DanhSachDoanhSo.resources
+C:\Users\nitro\OneDrive\Máy tính\QuanLyBanQuanAo\GUI\obj\Debug\net5.0-windows\GUI.DanhSachHangTrongKho.resources
+C:\Users\nitro\OneDrive\Máy tính\QuanLyBanQuanAo\GUI\obj\Debug\net5.0-windows\GUI.DanhSachKhachHang.resources
+C:\Users\nitro\OneDrive\Máy tính\QuanLyBanQuanAo\GUI\obj\Debug\net5.0-windows\GUI.DanhSachLuongNhanVien.resources
+C:\Users\nitro\OneDrive\Máy tính\QuanLyBanQuanAo\GUI\obj\Debug\net5.0-windows\GUI.DanhSachThongTinNhanVien.resources
+C:\Users\nitro\OneDrive\Máy tính\QuanLyBanQuanAo\GUI\obj\Debug\net5.0-windows\GUI.DoiMatKhau.resources
+C:\Users\nitro\OneDrive\Máy tính\QuanLyBanQuanAo\GUI\obj\Debug\net5.0-windows\GUI.HoSoNhanVien.resources
+C:\Users\nitro\OneDrive\Máy tính\QuanLyBanQuanAo\GUI\obj\Debug\net5.0-windows\GUI.QuanLyChucVu.resources
+C:\Users\nitro\OneDrive\Máy tính\QuanLyBanQuanAo\GUI\obj\Debug\net5.0-windows\GUI.QuanLyDoanhSo.resources
+C:\Users\nitro\OneDrive\Máy tính\QuanLyBanQuanAo\GUI\obj\Debug\net5.0-windows\GUI.QuanLyGioiTinh.resources
+C:\Users\nitro\OneDrive\Máy tính\QuanLyBanQuanAo\GUI\obj\Debug\net5.0-windows\GUI.QuanLyHangTrongKho.resources
+C:\Users\nitro\OneDrive\Máy tính\QuanLyBanQuanAo\GUI\obj\Debug\net5.0-windows\GUI.QuanLyKhachHang.resources
+C:\Users\nitro\OneDrive\Máy tính\QuanLyBanQuanAo\GUI\obj\Debug\net5.0-windows\GUI.QuanLyLoaiHangHoa.resources
+C:\Users\nitro\OneDrive\Máy tính\QuanLyBanQuanAo\GUI\obj\Debug\net5.0-windows\GUI.QuanLyLuongNhanVien.resources
+C:\Users\nitro\OneDrive\Máy tính\QuanLyBanQuanAo\GUI\obj\Debug\net5.0-windows\GUI.QuanLyNhanVien.resources
+C:\Users\nitro\OneDrive\Máy tính\QuanLyBanQuanAo\GUI\obj\Debug\net5.0-windows\GUI.TrangChuAdmin.resources
+C:\Users\nitro\OneDrive\Máy tính\QuanLyBanQuanAo\GUI\obj\Debug\net5.0-windows\GUI.TrangChuNhanVien.resources
+C:\Users\nitro\OneDrive\Máy tính\QuanLyBanQuanAo\GUI\obj\Debug\net5.0-windows\GUI.csproj.GenerateResource.cache
+C:\Users\nitro\OneDrive\Máy tính\QuanLyBanQuanAo\GUI\obj\Debug\net5.0-windows\GUI.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nitro\OneDrive\Máy tính\QuanLyBanQuanAo\GUI\obj\Debug\net5.0-windows\GUI.AssemblyInfoInputs.cache
+C:\Users\nitro\OneDrive\Máy tính\QuanLyBanQuanAo\GUI\obj\Debug\net5.0-windows\GUI.AssemblyInfo.cs
+C:\Users\nitro\OneDrive\Máy tính\QuanLyBanQuanAo\GUI\obj\Debug\net5.0-windows\GUI.csproj.CoreCompileInputs.cache
+C:\Users\nitro\OneDrive\Máy tính\QuanLyBanQuanAo\GUI\obj\Debug\net5.0-windows\GUI.csproj.CopyComplete
+C:\Users\nitro\OneDrive\Máy tính\QuanLyBanQuanAo\GUI\obj\Debug\net5.0-windows\GUI.dll
+C:\Users\nitro\OneDrive\Máy tính\QuanLyBanQuanAo\GUI\obj\Debug\net5.0-windows\ref\GUI.dll
+C:\Users\nitro\OneDrive\Máy tính\QuanLyBanQuanAo\GUI\obj\Debug\net5.0-windows\GUI.pdb
+C:\Users\nitro\OneDrive\Máy tính\QuanLyBanQuanAo\GUI\obj\Debug\net5.0-windows\GUI.genruntimeconfig.cache
+C:\Users\nitro\OneDrive\Máy tính\QuanLyBanQuanAo\GUI\obj\Debug\net5.0-windows\GUI.NhapHang.resources
+C:\Users\nitro\OneDrive\Máy tính\QuanLyBanQuanAo\GUI\obj\Debug\net5.0-windows\GUI.QuanLyKichThuoc.resources
+C:\Users\nitro\OneDrive\Máy tính\QuanLyBanQuanAo\GUI\obj\Debug\net5.0-windows\GUI.Properties.Resources.resources
+C:\Users\nitro\OneDrive\Máy tính\QuanLyBanQuanAo\GUI\obj\Debug\net5.0-windows\GUI.LuongNhanVien.resources

@@ -1,0 +1,24 @@
+G:\Tai Lieu C#\File Project\QuanLyBanQuanAo\DTO\bin\Debug\net5.0-windows\DTO.deps.json
+G:\Tai Lieu C#\File Project\QuanLyBanQuanAo\DTO\bin\Debug\net5.0-windows\DTO.dll
+G:\Tai Lieu C#\File Project\QuanLyBanQuanAo\DTO\bin\Debug\net5.0-windows\ref\DTO.dll
+G:\Tai Lieu C#\File Project\QuanLyBanQuanAo\DTO\bin\Debug\net5.0-windows\DTO.pdb
+G:\Tai Lieu C#\File Project\QuanLyBanQuanAo\DTO\obj\Debug\net5.0-windows\DTO.csproj.AssemblyReference.cache
+G:\Tai Lieu C#\File Project\QuanLyBanQuanAo\DTO\obj\Debug\net5.0-windows\DTO.GeneratedMSBuildEditorConfig.editorconfig
+G:\Tai Lieu C#\File Project\QuanLyBanQuanAo\DTO\obj\Debug\net5.0-windows\DTO.AssemblyInfoInputs.cache
+G:\Tai Lieu C#\File Project\QuanLyBanQuanAo\DTO\obj\Debug\net5.0-windows\DTO.AssemblyInfo.cs
+G:\Tai Lieu C#\File Project\QuanLyBanQuanAo\DTO\obj\Debug\net5.0-windows\DTO.csproj.CoreCompileInputs.cache
+G:\Tai Lieu C#\File Project\QuanLyBanQuanAo\DTO\obj\Debug\net5.0-windows\DTO.dll
+G:\Tai Lieu C#\File Project\QuanLyBanQuanAo\DTO\obj\Debug\net5.0-windows\ref\DTO.dll
+G:\Tai Lieu C#\File Project\QuanLyBanQuanAo\DTO\obj\Debug\net5.0-windows\DTO.pdb
+C:\Users\nitro\OneDrive\Máy tính\QuanLyBanQuanAo\DTO\bin\Debug\net5.0-windows\DTO.deps.json
+C:\Users\nitro\OneDrive\Máy tính\QuanLyBanQuanAo\DTO\bin\Debug\net5.0-windows\DTO.dll
+C:\Users\nitro\OneDrive\Máy tính\QuanLyBanQuanAo\DTO\bin\Debug\net5.0-windows\ref\DTO.dll
+C:\Users\nitro\OneDrive\Máy tính\QuanLyBanQuanAo\DTO\bin\Debug\net5.0-windows\DTO.pdb
+C:\Users\nitro\OneDrive\Máy tính\QuanLyBanQuanAo\DTO\obj\Debug\net5.0-windows\DTO.csproj.AssemblyReference.cache
+C:\Users\nitro\OneDrive\Máy tính\QuanLyBanQuanAo\DTO\obj\Debug\net5.0-windows\DTO.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nitro\OneDrive\Máy tính\QuanLyBanQuanAo\DTO\obj\Debug\net5.0-windows\DTO.AssemblyInfoInputs.cache
+C:\Users\nitro\OneDrive\Máy tính\QuanLyBanQuanAo\DTO\obj\Debug\net5.0-windows\DTO.AssemblyInfo.cs
+C:\Users\nitro\OneDrive\Máy tính\QuanLyBanQuanAo\DTO\obj\Debug\net5.0-windows\DTO.csproj.CoreCompileInputs.cache
+C:\Users\nitro\OneDrive\Máy tính\QuanLyBanQuanAo\DTO\obj\Debug\net5.0-windows\DTO.dll
+C:\Users\nitro\OneDrive\Máy tính\QuanLyBanQuanAo\DTO\obj\Debug\net5.0-windows\ref\DTO.dll
+C:\Users\nitro\OneDrive\Máy tính\QuanLyBanQuanAo\DTO\obj\Debug\net5.0-windows\DTO.pdb

@@ -1,0 +1,24 @@
+G:\Tai Lieu C#\File Project\QuanLyBanQuanAo\DAL\bin\Debug\net5.0-windows\DAL.deps.json
+G:\Tai Lieu C#\File Project\QuanLyBanQuanAo\DAL\bin\Debug\net5.0-windows\DAL.dll
+G:\Tai Lieu C#\File Project\QuanLyBanQuanAo\DAL\bin\Debug\net5.0-windows\ref\DAL.dll
+G:\Tai Lieu C#\File Project\QuanLyBanQuanAo\DAL\bin\Debug\net5.0-windows\DAL.pdb
+G:\Tai Lieu C#\File Project\QuanLyBanQuanAo\DAL\obj\Debug\net5.0-windows\DAL.csproj.AssemblyReference.cache
+G:\Tai Lieu C#\File Project\QuanLyBanQuanAo\DAL\obj\Debug\net5.0-windows\DAL.GeneratedMSBuildEditorConfig.editorconfig
+G:\Tai Lieu C#\File Project\QuanLyBanQuanAo\DAL\obj\Debug\net5.0-windows\DAL.AssemblyInfoInputs.cache
+G:\Tai Lieu C#\File Project\QuanLyBanQuanAo\DAL\obj\Debug\net5.0-windows\DAL.AssemblyInfo.cs
+G:\Tai Lieu C#\File Project\QuanLyBanQuanAo\DAL\obj\Debug\net5.0-windows\DAL.csproj.CoreCompileInputs.cache
+G:\Tai Lieu C#\File Project\QuanLyBanQuanAo\DAL\obj\Debug\net5.0-windows\DAL.dll
+G:\Tai Lieu C#\File Project\QuanLyBanQuanAo\DAL\obj\Debug\net5.0-windows\ref\DAL.dll
+G:\Tai Lieu C#\File Project\QuanLyBanQuanAo\DAL\obj\Debug\net5.0-windows\DAL.pdb
+C:\Users\nitro\OneDrive\Máy tính\QuanLyBanQuanAo\DAL\bin\Debug\net5.0-windows\DAL.deps.json
+C:\Users\nitro\OneDrive\Máy tính\QuanLyBanQuanAo\DAL\bin\Debug\net5.0-windows\DAL.dll
+C:\Users\nitro\OneDrive\Máy tính\QuanLyBanQuanAo\DAL\bin\Debug\net5.0-windows\ref\DAL.dll
+C:\Users\nitro\OneDrive\Máy tính\QuanLyBanQuanAo\DAL\bin\Debug\net5.0-windows\DAL.pdb
+C:\Users\nitro\OneDrive\Máy tính\QuanLyBanQuanAo\DAL\obj\Debug\net5.0-windows\DAL.csproj.AssemblyReference.cache
+C:\Users\nitro\OneDrive\Máy tính\QuanLyBanQuanAo\DAL\obj\Debug\net5.0-windows\DAL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nitro\OneDrive\Máy tính\QuanLyBanQuanAo\DAL\obj\Debug\net5.0-windows\DAL.AssemblyInfoInputs.cache
+C:\Users\nitro\OneDrive\Máy tính\QuanLyBanQuanAo\DAL\obj\Debug\net5.0-windows\DAL.AssemblyInfo.cs
+C:\Users\nitro\OneDrive\Máy tính\QuanLyBanQuanAo\DAL\obj\Debug\net5.0-windows\DAL.csproj.CoreCompileInputs.cache
+C:\Users\nitro\OneDrive\Máy tính\QuanLyBanQuanAo\DAL\obj\Debug\net5.0-windows\DAL.dll
+C:\Users\nitro\OneDrive\Máy tính\QuanLyBanQuanAo\DAL\obj\Debug\net5.0-windows\ref\DAL.dll
+C:\Users\nitro\OneDrive\Máy tính\QuanLyBanQuanAo\DAL\obj\Debug\net5.0-windows\DAL.pdb

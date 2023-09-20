@@ -1,0 +1,34 @@
+G:\Tai Lieu C#\File Project\QuanLyBanQuanAo\BUS\bin\Debug\net5.0-windows\BUS.deps.json
+G:\Tai Lieu C#\File Project\QuanLyBanQuanAo\BUS\bin\Debug\net5.0-windows\BUS.dll
+G:\Tai Lieu C#\File Project\QuanLyBanQuanAo\BUS\bin\Debug\net5.0-windows\ref\BUS.dll
+G:\Tai Lieu C#\File Project\QuanLyBanQuanAo\BUS\bin\Debug\net5.0-windows\BUS.pdb
+G:\Tai Lieu C#\File Project\QuanLyBanQuanAo\BUS\bin\Debug\net5.0-windows\DAL.dll
+G:\Tai Lieu C#\File Project\QuanLyBanQuanAo\BUS\bin\Debug\net5.0-windows\DTO.dll
+G:\Tai Lieu C#\File Project\QuanLyBanQuanAo\BUS\bin\Debug\net5.0-windows\DAL.pdb
+G:\Tai Lieu C#\File Project\QuanLyBanQuanAo\BUS\bin\Debug\net5.0-windows\DTO.pdb
+G:\Tai Lieu C#\File Project\QuanLyBanQuanAo\BUS\obj\Debug\net5.0-windows\BUS.csproj.AssemblyReference.cache
+G:\Tai Lieu C#\File Project\QuanLyBanQuanAo\BUS\obj\Debug\net5.0-windows\BUS.GeneratedMSBuildEditorConfig.editorconfig
+G:\Tai Lieu C#\File Project\QuanLyBanQuanAo\BUS\obj\Debug\net5.0-windows\BUS.AssemblyInfoInputs.cache
+G:\Tai Lieu C#\File Project\QuanLyBanQuanAo\BUS\obj\Debug\net5.0-windows\BUS.AssemblyInfo.cs
+G:\Tai Lieu C#\File Project\QuanLyBanQuanAo\BUS\obj\Debug\net5.0-windows\BUS.csproj.CoreCompileInputs.cache
+G:\Tai Lieu C#\File Project\QuanLyBanQuanAo\BUS\obj\Debug\net5.0-windows\BUS.csproj.CopyComplete
+G:\Tai Lieu C#\File Project\QuanLyBanQuanAo\BUS\obj\Debug\net5.0-windows\BUS.dll
+G:\Tai Lieu C#\File Project\QuanLyBanQuanAo\BUS\obj\Debug\net5.0-windows\ref\BUS.dll
+G:\Tai Lieu C#\File Project\QuanLyBanQuanAo\BUS\obj\Debug\net5.0-windows\BUS.pdb
+C:\Users\nitro\OneDrive\Máy tính\QuanLyBanQuanAo\BUS\bin\Debug\net5.0-windows\BUS.deps.json
+C:\Users\nitro\OneDrive\Máy tính\QuanLyBanQuanAo\BUS\bin\Debug\net5.0-windows\BUS.dll
+C:\Users\nitro\OneDrive\Máy tính\QuanLyBanQuanAo\BUS\bin\Debug\net5.0-windows\ref\BUS.dll
+C:\Users\nitro\OneDrive\Máy tính\QuanLyBanQuanAo\BUS\bin\Debug\net5.0-windows\BUS.pdb
+C:\Users\nitro\OneDrive\Máy tính\QuanLyBanQuanAo\BUS\bin\Debug\net5.0-windows\DAL.dll
+C:\Users\nitro\OneDrive\Máy tính\QuanLyBanQuanAo\BUS\bin\Debug\net5.0-windows\DTO.dll
+C:\Users\nitro\OneDrive\Máy tính\QuanLyBanQuanAo\BUS\bin\Debug\net5.0-windows\DAL.pdb
+C:\Users\nitro\OneDrive\Máy tính\QuanLyBanQuanAo\BUS\bin\Debug\net5.0-windows\DTO.pdb
+C:\Users\nitro\OneDrive\Máy tính\QuanLyBanQuanAo\BUS\obj\Debug\net5.0-windows\BUS.csproj.AssemblyReference.cache
+C:\Users\nitro\OneDrive\Máy tính\QuanLyBanQuanAo\BUS\obj\Debug\net5.0-windows\BUS.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nitro\OneDrive\Máy tính\QuanLyBanQuanAo\BUS\obj\Debug\net5.0-windows\BUS.AssemblyInfoInputs.cache
+C:\Users\nitro\OneDrive\Máy tính\QuanLyBanQuanAo\BUS\obj\Debug\net5.0-windows\BUS.AssemblyInfo.cs
+C:\Users\nitro\OneDrive\Máy tính\QuanLyBanQuanAo\BUS\obj\Debug\net5.0-windows\BUS.csproj.CoreCompileInputs.cache
+C:\Users\nitro\OneDrive\Máy tính\QuanLyBanQuanAo\BUS\obj\Debug\net5.0-windows\BUS.csproj.CopyComplete
+C:\Users\nitro\OneDrive\Máy tính\QuanLyBanQuanAo\BUS\obj\Debug\net5.0-windows\BUS.dll
+C:\Users\nitro\OneDrive\Máy tính\QuanLyBanQuanAo\BUS\obj\Debug\net5.0-windows\ref\BUS.dll
+C:\Users\nitro\OneDrive\Máy tính\QuanLyBanQuanAo\BUS\obj\Debug\net5.0-windows\BUS.pdb
